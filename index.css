@@ -41,7 +41,7 @@ body{
     object-fit: cover;
     width: 100%;
     height: 60%;
-    content: url("/images/image-equilibrium.jpg");
+    content: url("images/image-equilibrium.jpg");
     border-radius: 10px;
 }
 
